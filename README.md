@@ -1,8 +1,11 @@
-## Привет всем, меня зовут Таня 👋
-
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Таня</a> 
+<h1 align="center">Привет всем, меня зовут Таня
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Я Фронтенд-разработчица из России	&#128515;</h3>
+
+<h3>&#128064; About me</h3>
+- Люблю создавать что-то новое и улучшать старое, превращая это в полноценный и качественный продукт, которым удобно пользоваться;<br>      
+- Стремлюсь к улучшению своих навыков и обогащению опыта в веб-разработке;<br>
+-🚀 Я в поиске работы [Мое резюме на HH.ru](https://hh.ru/resume/6b4ba50fff0f4be06b0039ed1f374a356e7146/)
 
 <!--
 **tanyanikitina176/tanyanikitina176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
